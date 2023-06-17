@@ -25,3 +25,9 @@ STATIC_PATHS = ['extras', 'rules', 'items']
 EXTRA_PATH_METADATA = {
     'extras/favicon.ico': {'path': 'favicon.ico'},
 }
+
+THEME = 'themes/illemont-custom'
+THEME_STATIC_DIR = "themes"
+THEME_STATIC_PATHS = ['static']
+CSS_FILE = 'bootstrap.min.css'
+# THEME = 'notmyidea'
