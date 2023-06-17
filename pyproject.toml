@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "illemont-quickref"
+version = "0.1.0"
+description = "Static site to display campaign homebrew rules and notes"
+authors = ["Ashley <ashleypak71@yahoo.com>"]
+readme = "README.md"
+packages = [{include = "illemont_quickref"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pelican = {extras = ["markdown"], version = "^4.8.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
