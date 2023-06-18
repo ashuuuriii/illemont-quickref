@@ -3,6 +3,11 @@ html_selector = "main"
 base_directory = "output"
 
 [[input.files]]
+path = "revised-silvery-barbs.html"
+url = "/revised-silvery-barbs.html"
+title = "Revised Silvery Barbs"
+
+[[input.files]]
 path = "actions-in-combat.html"
 url = "/actions-in-combat.html"
 title = "Actions in Combat"
