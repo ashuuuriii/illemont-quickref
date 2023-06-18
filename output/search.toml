@@ -1,6 +1,6 @@
 [input]
 html_selector = "main"
-base_directory = "output"
+base_directory = "/media/ashley/bc30a962-e11e-4407-8c74-5eaf3a321957/Documents/illemont-quickref/output"
 
 [[input.files]]
 path = "revised-silvery-barbs.html"

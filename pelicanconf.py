@@ -1,6 +1,6 @@
 AUTHOR = 'Ashley'
 SITENAME = 'Illemont'
-SITEURL = ''
+SITEURL = 'https://ashuuuriii.github.io/illemont-quickref/'
 
 PATH = 'content'
 
