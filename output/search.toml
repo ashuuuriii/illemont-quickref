@@ -1,0 +1,23 @@
+[input]
+html_selector = "main"
+base_directory = "output"
+
+[[input.files]]
+path = "actions-in-combat.html"
+url = "/actions-in-combat.html"
+title = "Actions in Combat"
+
+[[input.files]]
+path = "critical-rolls.html"
+url = "/critical-rolls.html"
+title = "Critical Rolls"
+
+[[input.files]]
+path = "halfling-weed.html"
+url = "/halfling-weed.html"
+title = "Halfling Weed"
+
+[[input.files]]
+path = "resurrections.html"
+url = "/resurrections.html"
+title = "Resurrections"
