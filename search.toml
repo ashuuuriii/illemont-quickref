@@ -1,0 +1,28 @@
+[input]
+html_selector = "main"
+base_directory = "/media/ashley/bc30a962-e11e-4407-8c74-5eaf3a321957/Documents/illemont-quickref/output"
+
+[[input.files]]
+path = "revised-silvery-barbs.html"
+url = "/revised-silvery-barbs.html"
+title = "Revised Silvery Barbs"
+
+[[input.files]]
+path = "actions-in-combat.html"
+url = "/actions-in-combat.html"
+title = "Actions in Combat"
+
+[[input.files]]
+path = "critical-rolls.html"
+url = "/critical-rolls.html"
+title = "Critical Rolls"
+
+[[input.files]]
+path = "halfling-weed.html"
+url = "/halfling-weed.html"
+title = "Halfling Weed"
+
+[[input.files]]
+path = "resurrections.html"
+url = "/resurrections.html"
+title = "Resurrections"
