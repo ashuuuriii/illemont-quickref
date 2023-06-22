@@ -3,6 +3,26 @@ html_selector = "main"
 base_directory = "/media/ashley/bc30a962-e11e-4407-8c74-5eaf3a321957/Documents/illemont-quickref/output"
 
 [[input.files]]
+path = "chompy.html"
+url = "/chompy.html"
+title = "Chompy"
+
+[[input.files]]
+path = "jar-of-hands4.html"
+url = "/jar-of-hands4.html"
+title = "Jar of Hands(4)"
+
+[[input.files]]
+path = "pets.html"
+url = "/pets.html"
+title = "Pets"
+
+[[input.files]]
+path = "switchblades.html"
+url = "/switchblades.html"
+title = "Switchblades"
+
+[[input.files]]
 path = "firearms.html"
 url = "/firearms.html"
 title = "Firearms"
