@@ -10,4 +10,4 @@ A tincture of opium dissolved in sherry wine and mixed with honey, cinnamon, and
 #### Effects
 Heals 2d4 + 2 HP
 
-DC13 con save to avoid falling unconscious for 1 hour. A target who has fallen unconscious due to laudanum can only be roused with a healing spell, a restoration spell, or with a DC18 medicine check.
+DC13 con save to avoid falling unconscious for 1 hour. A target who has fallen unconscious due to laudanum can only be roused with a healing spell, a restoration spell, or with a DC18 medicine check. Failing the con save when under the influence of another consumable which prevents sleep results in death saving throws.
