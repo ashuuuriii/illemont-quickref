@@ -12,8 +12,12 @@ Category: Pets
 
 **Statblock:** [dnd Beyond](https://www.dndbeyond.com/monsters/16957-mimic)
 
+
 #### Tricks
 **"Come":** Tilly
+
+**"Guard":** Smith
+
 
 #### Combat Training
 **Chris:**

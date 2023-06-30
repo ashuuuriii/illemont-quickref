@@ -12,8 +12,10 @@ Category: Pets
 
 **Statblock:** [dnd Wiki](https://www.dndwiki.io/monsters/crawling-claw)
 
+
 #### Tricks
 None. They hate all of you at the moment.
+
 
 #### Combat Training
 **Chris:**
