@@ -18,6 +18,10 @@ Category: Pets
 
 **"Guard":** Smith
 
+**"Jump":** Henry
+
+**"Shapechange (stuffed sea turtle):** Henry
+
 
 #### Combat Training
 **Chris:**
