@@ -26,7 +26,7 @@ Category: Pets
 #### Combat Training
 **Chris:**
 
-**Henry:**
+**Henry:** *
 
 **Rattle:**
 
