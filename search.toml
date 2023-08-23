@@ -3,6 +3,16 @@ html_selector = "main"
 base_directory = "/media/ashley/bc30a962-e11e-4407-8c74-5eaf3a321957/Documents/illemont-quickref/output"
 
 [[input.files]]
+path = "brass-knuckles.html"
+url = "/brass-knuckles.html"
+title = "Brass Knuckles"
+
+[[input.files]]
+path = "tusk-swords.html"
+url = "/tusk-swords.html"
+title = "Tusk Swords"
+
+[[input.files]]
 path = "fiends-dream.html"
 url = "/fiends-dream.html"
 title = "Fiend's Dream"
